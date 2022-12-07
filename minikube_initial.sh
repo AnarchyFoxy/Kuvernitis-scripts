@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+brew install minikube
 minikube start
 
 #minikube ssh
